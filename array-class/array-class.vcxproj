@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="array-class.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CArray.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
